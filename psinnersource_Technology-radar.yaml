@@ -1,0 +1,47 @@
+name: Technology radar
+description: "A framework and tool to drive the standardisation of technology across an organisation. It will categorise all tools, method, framework and platforms into 4 categories: Maintain, Invest, Watch, Exit"
+subGroup: Engineering
+groupName: Engineering fabric
+productName: "Fabric"
+productOwners:
+  - "Eswara Kumar (eswara.kumar@publicissapient.com)"
+productBacklogUrl:
+logo: 
+urls: 
+  - shortDescription: Code & Documentation
+    link: https://pscode.lioncloud.net/psinnersource/engineering/technology-radar
+tags:
+  - "#framework"
+  - "#template"
+  - "techradar"
+endorsements:
+  - "Lloyds banking group"
+upcomingFeatures:
+keyContacts:
+  - "Eswara Kumar (eswara.kumar@publicissapient.com)"
+benefits:
+  # - "Provides a unified view of the technology landscape in the organisation"
+  # - "Technology radar will assist in capability building by focussing on category Invest and maintain"
+installationTime: approx 2 hours
+legalAndIPQuestions:
+  - id: "QUESTION_1"
+    question: "Has this product or accelerator been approved for contribution into PS InnerSource by your current Engineering lead (if you are currently allocated to a client project)? If you’re not allocated to a client project, please answer n/a."
+    answer: "yes" 
+  - id: "QUESTION_2"
+    question: "Has this product or accelerator been reviewed by the respective product owner or champion for potential IP infringement?"
+    answer: "yes"
+  - id: "QUESTION_3"
+    question: "Was the product created solely by Publicis Sapient employees, contractors or freelancers?"
+    answer: "yes"
+  - id: "QUESTION_4"
+    question: "Were any client personnel involved in creating the product?"                                                                                                             
+    answer: "no"
+  - id: "QUESTION_5"
+    question: "Was the product created using Publicis Sapient resources (eg. Machines, environments, software) on Publicis Sapient time?"                                                             
+    answer: "yes"
+  - id: "QUESTION_6"
+    question: "Were any of the PS people involved in creation (employees/freelancers/contractors) allocated to client accounts at the time?"          
+    answer: "no" 
+  - id: "QUESTION_7"
+    question: "If so, which client accounts?  "                                                                                                                                                      
+    answer: "“n/a” OR “Client Name”"
