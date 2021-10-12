@@ -16,25 +16,3 @@ keyContacts:
   - "contact@mail.com"
 benefits: benifits of accelerator
 installationTime: ~60m
-legalAndIPQuestions:
-  - id: "QUESTION_1"
-    question: "Has this product or accelerator been approved for contribution into PS InnerSource by your current Engineering lead (if you are currently allocated to a client project)? If you’re not allocated to a client project, please answer n/a."
-    answer: yes 
-  - id: "QUESTION_2"
-    question: "Has this product or accelerator been reviewed by the respective product owner or champion for potential IP infringement?"
-    answer: yes 
-  - id: "QUESTION_3"
-    question: "Was the product created solely by Publicis Sapient employees, contractors or freelancers?"
-    answer: yes
-  - id: "QUESTION_4"
-    question: "Were any client personnel involved in creating the product?"                                                                                                         
-    answer: no 
-  - id: "QUESTION_5"
-    question: "Was the product created using Publicis Sapient resources (eg. Machines, environments, software) on Publicis Sapient time?"                                                             
-    answer: yes
-  - id: "QUESTION_6"
-    question: "Were any of the PS people involved in creation (employees/freelancers/contractors) allocated to client accounts at the time?"          
-    answer: no
-  - id: "QUESTION_7"
-    question: "If so, which client accounts?"                                                                                                                                                      
-    answer: NA
