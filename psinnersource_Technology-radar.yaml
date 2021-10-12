@@ -1,3 +1,4 @@
+id: TestRepo
 name: Technology radar
 description: "A framework and tool to drive the standardisation of technology across an organisation. It will categorise all tools, method, framework and platforms into 4 categories: Maintain, Invest, Watch, Exit"
 subGroup: Engineering
