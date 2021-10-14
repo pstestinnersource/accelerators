@@ -5,24 +5,24 @@ subGroup: Engineering
 groupName: Engineering fabric
 productName: "Fabric"
 productOwners:
-  - "Eswara Kumar (eswara.kumar@publicissapient.com)"
+  - "USER1 (user1@mail.com)"
 productBacklogUrl:
 logo: 
 urls: 
   - shortDescription: Code & Documentation
-    link: https://pscode.lioncloud.net/psinnersource/engineering/technology-radar
+    link: https://testrepo.com
 tags:
   - "#framework"
   - "#template"
   - "techradar"
 endorsements:
-  - "Lloyds banking group"
+  - "endorsements"
 upcomingFeatures:
 keyContacts:
-  - "Eswara Kumar (eswara.kumar@publicissapient.com)"
+  - "USER1 (user1@mail.com)"
 benefits:
-  # - "Provides a unified view of the technology landscape in the organisation"
-  # - "Technology radar will assist in capability building by focussing on category Invest and maintain"
+  # - "one"
+  # - "two"
 installationTime: approx 2 hours
 legalAndIPQuestions:
   - id: "QUESTION_1"
