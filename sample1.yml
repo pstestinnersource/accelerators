@@ -1,6 +1,6 @@
 id: 
-repoName:TestRepo
-organizationName:pstestinnersource
+repoName: TestRepo
+organizationName: pstestinnersource
 name: test repo
 description: This is a test description
 subGroup: test subgroup
