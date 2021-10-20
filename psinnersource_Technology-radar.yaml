@@ -14,9 +14,9 @@ urls:
   - shortDescription: Code & Documentation
     link: https://testrepo.com
 tags:
-  - "#framework"
-  - "#template"
-  - "techradar"
+  - "#tag1"
+  - "#tag2"
+  - "#tag3"
 endorsements:
   - "endorsements"
 upcomingFeatures:
