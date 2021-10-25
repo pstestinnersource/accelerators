@@ -1,0 +1,22 @@
+name: JADE
+description: This is description of JADE
+subGroup: Microfrontend
+groupName: Engagement platform
+productName: 'JADE'
+productOwners:
+  - 'User (user@mail.com)'
+productBacklogUrl: 
+logo:
+urls:
+  - shortDescription: Code & Documentation
+    link: https://github.com
+tags:
+  - '#tag1'
+  - '#tag2'
+endorsements:
+  - 'github'
+upcomingFeatures:
+keyContacts:
+  - 'User (user@mail.com)'
+benefits: To be added
+installationTime: To be added
