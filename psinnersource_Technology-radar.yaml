@@ -1,7 +1,7 @@
 repoName: TestRepo
 organizationName: pstestinnersource
 name: Technology radar
-description: A framework and tool to drive the standardisation of technology across an organisation. It will categorise all tools, method, framework and platforms into 4 categories: Maintain, Invest, Watch, Exit
+description: "A framework and tool to drive the standardisation of technology across an organisation. It will categorise all tools, method, framework and platforms into 4 categories: Maintain, Invest, Watch, Exit"
 subGroup: Engineering
 groupName: Engineering fabric
 productName: "Fabric"
