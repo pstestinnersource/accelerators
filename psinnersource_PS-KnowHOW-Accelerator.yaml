@@ -1,0 +1,34 @@
+repoName: TestRepo
+organizationName: pstestinnersource
+name: PS KnowHOW Accelerator
+description: "KnowHOW is a measurement framework that delivers a visual dashboard to track key performance indicators (KPIs) across entire organizations transformation programs."
+subGroup: Measurement
+groupName: Engineering Fabric
+productName: Fabric
+productOwners:
+  - "user1"
+productBacklogUrl:
+logo: 
+urls: 
+  - shortDescription: "Source Code"
+    link: https://github.com/PublicisSapient/KnowHow
+  - shortDescription: "Code & Documentation"
+    link: https://link.com/path/folder/file
+tags:
+  - "#framework"
+  - "#measurement"
+  - "#KPI"
+  - "#maturity"
+endorsements:
+  - "ABC Group"
+upcomingFeatures:
+keyContacts:
+  - "user1@publicissapient.com"
+  - "user2@publicissapient.com"
+  - "user3@publicissapient.com"
+benefits: 
+#   - "KnowHOW  enables you to make decisions deeply rooted in data"
+#   - "KnowHOW is a container based tool that is easily deployable in any infrastructure"
+#   - "The KnowHOW dashboard displays a consolidated view of engagement health that team members, program leaders, and executives can see to assess the current state of the engagement."
+#   - "Visual representations of key KPIs  related to Speed, Quality and Value enable teams to focus on the gaps so that they can continuously improve."
+installationTime: "Save 2 weeks of Infrastructure provisioning and script creation effort per Project"
